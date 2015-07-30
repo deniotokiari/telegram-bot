@@ -1,8 +1,0 @@
-# Ignore config
-config.ini
-
-# Ignore libs
-/lib
-
-# Ignore *.pyc
-/plugins/*.pyc
